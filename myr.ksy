@@ -7,7 +7,6 @@ seq:
     contents: ["MyrA"]
   - id: version
     type: u1
-    size: 1
   - id: entry_count
     type: u8
   - id: entry_metas
